@@ -1,0 +1,18 @@
+{
+  "name": "webtesting-e2e-functional-cypress-",
+  "version": "1.0.0",
+  "description": "Cypress e2e Testing project",
+  "author": {
+    "name": "Alberto Basalo",
+    "email": "learn@bitademy.com",
+    "url": "https://twitter.com/albertobasalo"
+  },
+  "license": "MIT",
+  "scripts": {},
+  "devDependencies": {
+    "eslint": "^7.3.1",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "prettier": "^2.0.5"
+  }
+}
