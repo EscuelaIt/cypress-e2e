@@ -8,6 +8,8 @@ cypress.json
 
 "test": "cypress run",
 
+yarn add mocha mochawesome
+
 1-proton-tasks
 
 commands.js
