@@ -1,19 +1,14 @@
-yarn add cypress
+# cypress-e2e
 
-"start": "cypress open",
+Código de ejemplo para la clase de pruebas funcionales _e2e_ con [cypress.io](https://www.cypress.io/)
 
-0-hello-world
+```terminal
+# yarn
+yarn install
+yarn start
+# npm
+npm install
+npm start
+```
 
-cypress.json
-
-"test": "cypress run",
-
-yarn add mocha mochawesome
-
-1-proton-tasks
-
-commands.js
-
-2-angular-budget
-
-projects.json
+Por [Alberto Basalo](https://twitter.com/albertobasalo)
