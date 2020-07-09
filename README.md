@@ -11,4 +11,4 @@ npm install
 npm start
 ```
 
-Por [Alberto Basalo](https://twitter.com/albertobasalo)
+Por [Alberto Basalo](https://escuela.it/teacher/alberto-basalo)
