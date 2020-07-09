@@ -8,7 +8,10 @@
     "url": "https://twitter.com/albertobasalo"
   },
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "start": "cypress open",
+    "test": "cypress run"
+  },
   "devDependencies": {
     "eslint": "^7.3.1",
     "eslint-config-prettier": "^6.11.0",
@@ -16,6 +19,7 @@
     "prettier": "^2.0.5"
   },
   "dependencies": {
+    "cypress": "^4.10.0",
     "mocha": "^8.0.1",
     "mochawesome": "^6.1.1"
   }
